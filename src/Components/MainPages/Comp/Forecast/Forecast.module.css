@@ -1,0 +1,21 @@
+.main{
+    background-color: rgb(234, 236, 239);
+    height: 100vh;
+    width: 50vh;
+    margin: 30px;
+    padding: 30px;
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #9399a2ff;
+    border-radius: 30px;
+}
+table ,tr,td{
+    text-align: center;
+}
+table{
+    width: 100%;
+}
+td{
+    font-size: 20px;
+    height: 140px;
+}

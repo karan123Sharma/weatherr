@@ -1,0 +1,26 @@
+.nav{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(234, 236, 239);
+    justify-content:start;
+    width: 5%;
+    height: 100vh;
+    margin: 20px;
+    border-radius: 20px;
+}
+.icons{
+    height: 30%;
+    width: 30%;
+}
+.smallimg{
+    height: 100px;
+    width: 100px; 
+}
+.nav ul li{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(234, 236, 239);
+    justify-content: center;
+    align-items: center; 
+    gap: 20px; 
+}
